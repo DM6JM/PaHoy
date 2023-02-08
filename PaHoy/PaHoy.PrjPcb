@@ -221,12 +221,12 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=ProjectRev
-Value=V0.1
-
-[Parameter2]
 Name=Project
 Value=PaHoy
+
+[Parameter2]
+Name=ProjectRev
+Value=V0.1
 
 [Configuration1]
 Name=Sources

@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PaHoy.PcbDoc   08.02.2023  14:44:50
+NCDrill File Report For: PaHoy.PcbDoc   08.02.2023  20:07:37
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,12 +7,12 @@ ASCII RoundHoles File : PaHoy.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             145       PTH        386.20mm (15.20inch)
+T1      0.3mm (12mil)                                             Round             143       PTH        374.39mm (14.74inch)
 T2      1.152mm (45mil)                                           Round             2         NPTH       65.59mm (2.58inch)
 T3      1.8mm (71mil)                                             Round             2         NPTH       45.72mm (1.80inch)
 T4      3mm (118mil)                                              Round             1         NPTH       0.00mm (0.00inch)
 T5      4.25mm (167mil)                                           Round             2         NPTH       58.00mm (2.28inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              152
+Totals                                                                              150
 
 Total Processing Time (hh:mm:ss) : 00:00:00
