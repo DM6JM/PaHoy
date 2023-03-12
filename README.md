@@ -18,16 +18,14 @@ Before starting assembly: Make sure you are properly grounded in some way! ESD w
 + If you want to use an antenna built directly into the case, I recommend [this antenna by Linx](https://www.digikey.de/de/products/detail/linx-technologies-inc/ANT-2-4-PW-QW-UFL/4747969). It can be ordered together with the special low height 40pin connector at Digikey or Mouser (see Ordering). If applicable, drill the mounting hole into the Pi case and remove any left strands carefully. Mount the antenna in place and pay attention to already check if the antenna's u.FL connector is oriented the right way, so that it can be attached to the PCB later easily.
 + Before assembling everything togheter, it might make sense to run a dry check.
 
-![Dry check of a prototype](/PaHoy/Docu/Pictures_Assembly/Proto1.JPG "Proto1")
-![Dry check of a prototype](/PaHoy/Docu/Pictures_Assembly/Proto2.JPG "Proto2")
+<img src="/PaHoy/Docu/Pictures_Assembly/Proto1.JPG" height="400" alt="Dry check of a prototype">  <img src="/PaHoy/Docu/Pictures_Assembly/Proto2.JPG" height="400" alt="Dry check of a prototype">
 
 + If you can talk to the nRF24L01+, go ahead with assembly. Mount the **PaHoy** the same way the original PCB has been mounted before. Do not overtight the screw and the distance bolts!
 + Before putting the Pi on top of the **PaHoy**, check the RF-wire to the antenna one last time. Is it routed properly within the case? (The antenna recommended above has a quite long cable for what is needed inside the case.) It must not be folded, bent or routed in small diameters and should not be sqeezed in between somewhere. Open the rubber lid at the side an check if the u.FL connector sits properly on the PCB's counterpart?
 
-![Check antenna wiring](/PaHoy/Docu/Pictures_Assembly/Assemb1.JPG "Antenna wiring")
-![Check connector](/PaHoy/Docu/Pictures_Assembly/Assemb2.JPG "Connector")
+<img src="/PaHoy/Docu/Pictures_Assembly/Assemb1.JPG" height="300" alt="Check antenna wiring">  <img src="/PaHoy/Docu/Pictures_Assembly/Assemb2.JPG" height="300" alt="Check connector">
 
-+ If everything is alright, mount the Pi and before closing the lid, make one final check if the RF cable is still where it should be. (E.g. not squished above the USB ports). Once the case is closed, attach power and enjoy the nRF24L01+ for your project!
++ If everything is alright, mount the Pi according to the case's instructions and before closing the lid, make one final check if the RF cable is still where it should be. (E.g. not squished above the USB ports). Once the case is closed, attach power and enjoy the nRF24L01+ for your project!
 
 ## Data
 The project has been done in Altium, but Gerbers, Schematics as PDF and alle production data is in the repo, so you can use it also without having an Altium licence. Pay attention, the PCB is just 1.2mm in height! Otherwise it doesn't fit.
