@@ -84,23 +84,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XNMUNJJX
 
 [Document3]
-DocumentPath=..\..\PaHoy.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QSCKJFQV
-
-[Document4]
 DocumentPath=JLC_PCB_SMT.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=PaHoy.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SAQNPBVJ
 
-[Document6]
+[Document5]
 DocumentPath=PaHoy.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,57 +133,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBYGRJAQ
-
-[Document7]
-DocumentPath=PaHoy.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FGUFLBFL
-
-[Document8]
-DocumentPath=PaHoy1.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CJKFHWLD
-
-[Document9]
-DocumentPath=PaHoy2.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IWUHCXGG
 
 [ProjectVariant1]
 UniqueID=4ECEFEE2-6CA1-478D-B20D-033D934DC86B
@@ -221,12 +153,12 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=ProjectRev
-Value=V0.1
-
-[Parameter2]
 Name=Project
 Value=PaHoy
+
+[Parameter2]
+Name=ProjectRev
+Value=V0.1
 
 [Configuration1]
 Name=Sources
